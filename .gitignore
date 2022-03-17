@@ -1,0 +1,4 @@
+#.classファイルを無視
+*.class
+
+WebContent/WEB-INF/lib/
